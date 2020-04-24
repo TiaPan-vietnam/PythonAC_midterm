@@ -58,7 +58,7 @@
 
 ---
 
-# Python AA Midterm Exam Questions
+# Python AC Midterm Exam Questions
 
 ## Qestion 1 : Directory Command of the shell
 
