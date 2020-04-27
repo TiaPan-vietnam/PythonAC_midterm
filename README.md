@@ -39,14 +39,14 @@
 ## 題目 2 : Git-it
 
 > 2-1 
-> fork **NDHUGE10802/PythonAC_midterm_2-1** repository，於本地端（Local）使用命令列 （Git Bash, terminal）clone repository，新增 **midterm** branch 加入 `mid-學號.txt`，內容包括日期，姓名，學號，班級，完成後 push 回 repository 再發送 PR 要求合併。
+> fork **NDHUGE10802/PythonAC_midterm_2-1** repository，於本地端（Local）使用命令列 （Git Bash, terminal）clone repository，新增 **"midterm"** 的 branch 加入 `mid-學號.txt`，內容包括日期，姓名，學號，班級，完成後 push 回 repository 再發送 PR 要求合併。
 > 
 > 建立 `problem2-1.md` 附上操作過程，上傳至期中考 repository。
 
 > 2-2 
-> 請於本地端（Local）使用命令列建立名為 **my_學號** 之 repository，其中需建立四個提交（commit）包含建立兩個檔案，修改檔案兩次，檔案名稱和內容請自定，完成後請上傳你的 repository 到你的 Github。
+> 請於本地端（Local）使用命令列建立名為 **"my_學號"** 之 repository，其中需建立四個提交（commit）包含建立兩個檔案，修改檔案兩次，檔案名稱和內容請自定，完成後請上傳你的 repository 到你的 Github。
 >  
-> 建立 `problem2-2.md` 附上操作過程，和你的 repsotry 位址，上傳至期中考 repository 。
+> 建立 `problem2-2.md` 附上操作過程，和你的 repository 位址，上傳至期中考 repository 。
 
 ---
 
@@ -91,11 +91,11 @@ Please complete the following requirements using the simplest command.
 2. copy a1.txt, b2.txt, c1.txt to temp3/cc1
 3. Delete bb2
 
-Create a `problem1.md` and write the coomad that you use in order, and attach the process and results (ls-R) and upload it to the midterm exam repository.
+Create a `problem1.md` and write the coomad that you use in order, and attach the process and results (ls -R) and upload it to the midterm exam repository.
 
 ## Qestion 2 : Git-it
 
-> 2-1 fork **NDHUGE10802/PythonAC_midterm_2-1** repository, using command line (Git Bash, terminal) to clone repository and add **midterm** branch to add `mid-studentnumber.txt` that include date, name, student number, and student class, complete all requiremt in local and push it back to repository, finally send PR request to request merge.
+> 2-1 fork **NDHUGE10802/PythonAC_midterm_2-1** repository, using command line (Git Bash, terminal) to clone repository and add **"midterm"** branch to add `mid-studentnumber.txt` that include date, name, student number, and student class, complete all requiremt in local and push it back to repository, finally send PR request to request merge.
 > 
 > Create`problem2-1.md` include your opertion and upload it to the midterm exam repository.
 
