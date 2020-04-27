@@ -29,7 +29,7 @@
 
 利用最簡指令完成下列需求：
 1. 新增一個 a2.txt，內容為` I am a2.txt` 於 temp1/aa2
-2. 複製 a1.txt，b2.txt，c1.txt，於 temp3/cc1
+2. 複製 a1.txt，b2.txt，c2.txt，於 temp3/cc1
 3. 刪除 bb2
 
 建立 `problem1.md` 依序寫出你使用的指令，附上過程和結果(ls -R)，上傳至期中考 repository 。
